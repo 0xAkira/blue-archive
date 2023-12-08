@@ -19,7 +19,7 @@ window.onload = () => {
 
     tl.to(imagePreview, {
         duration: 1,
-        clipPath: "polygon(0 0, 100%m0%, 100% 100%, 0% 100%)",
+        clipPath: "polygon(0 0, 100% 0%, 100% 100%, 0% 100%)",
         stagger: 0.1
     })
 
